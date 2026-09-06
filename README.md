@@ -7,11 +7,11 @@
 <h1>Hi there 👋, I'm King Michael</h1>
 
 <p>
-  <strong>Frontend Developer • Computer Science Student • Builder</strong>
+  <strong>Frontend Developer • Computer Science Student • AI & Automation Explorer</strong>
 </p>
 
 <p>
-  I build modern web experiences, experiment with new technologies, and learn by turning ideas into real projects.
+  I build modern web experiences, experiment with AI and automation, and learn by turning ideas into real projects.
 </p>
 
 <p>
@@ -31,6 +31,8 @@ I'm King Michael, a Computer Science student and frontend developer from Nigeria
 
 I enjoy building responsive interfaces, turning ideas into usable products, and improving my skills through hands-on projects.
 
+I'm also exploring AI prompt engineering and AI automation, while building toward deeper knowledge in data science, machine learning, and intelligent systems.
+
 My recent work ranges from fashion-focused React experiences and interactive JavaScript components to a full accountability platform and a more advanced personal portfolio.
 
 - 💻 Frontend Developer
@@ -39,7 +41,8 @@ My recent work ranges from fashion-focused React experiences and interactive Jav
 - ⚛️ React and Next.js focused
 - 🎨 Interested in UI, motion, and visual experiences
 - 🗄️ Exploring Supabase and PostgreSQL
-- 🤖 Experimenting with AI-powered web experiences
+- 🤖 AI Prompt Engineering & AI Automation
+- 🧠 Interested in Data Science & Machine Learning
 - ♟️ Chess enthusiast
 
 ---
@@ -65,9 +68,12 @@ My recent work ranges from fashion-focused React experiences and interactive Jav
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### Motion, 3D & Tools
+### AI, Automation, Motion & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/AI_Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Prompt Engineering" />
+  <img src="https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
@@ -76,6 +82,13 @@ My recent work ranges from fashion-focused React experiences and interactive Jav
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+### Data & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 </p>
 
 ---
@@ -166,10 +179,10 @@ My personal developer portfolio built to showcase my work, journey, skills, lear
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=JavaScript+%26+TypeScript;React+%26+Next.js;Backend+Development;Supabase+%26+PostgreSQL;Animation+%26+3D+Web;AI-powered+applications" alt="Currently Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=JavaScript+%26+TypeScript;React+%26+Next.js;Backend+Development;AI+Prompt+Engineering;AI+Automation;Data+Science;Machine+Learning;Animation+%26+3D+Web" alt="Currently Learning" />
 </p>
 
-I'm focused on strengthening my fundamentals while building more complete applications from frontend to backend.
+I'm focused on strengthening my fundamentals while expanding from frontend development into AI, automation, data science, and machine learning.
 
 ---
 
@@ -179,6 +192,8 @@ I'm focused on strengthening my fundamentals while building more complete applic
 - Building stronger frontend architecture
 - Becoming highly confident with JavaScript and TypeScript
 - Building full-stack applications with real data
+- Developing practical AI prompt engineering and automation skills
+- Building a strong foundation in data science and machine learning
 - Creating more polished interactions and animations
 - Exploring AI and 3D on the web
 - Contributing to meaningful projects and open-source work
@@ -204,9 +219,12 @@ I'm focused on strengthening my fundamentals while building more complete applic
 
 <div align="center">
 
-<a href="https://github.com/King-Mikeyz">
-  <img src="https://img.shields.io/badge/GitHub-King--Mikeyz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikelezeking@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ezenwugo-b293033a8/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mike.eze.94402)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348133516993)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mikeyz001)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/King-Mikeyz)
 
 </div>
 
