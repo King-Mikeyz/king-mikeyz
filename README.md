@@ -11,8 +11,12 @@
 </p>
 
 <p>
+  I build modern web experiences, experiment with new technologies, and learn by turning ideas into real projects.
+</p>
+
+<p>
   <a href="https://github.com/King-Mikeyz">
-    <img src="https://img.shields.io/badge/GitHub-King--Mikeyz-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-King--Mikeyz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=King-Mikeyz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -25,18 +29,18 @@
 
 I'm King Michael, a Computer Science student and frontend developer from Nigeria.
 
-I enjoy turning ideas into functional web applications and continuously improving my skills by building real projects.
+I enjoy building responsive interfaces, turning ideas into usable products, and improving my skills through hands-on projects.
 
-I'm currently focused on writing better JavaScript and TypeScript, building modern interfaces with React and Next.js, and learning more about backend development and databases.
+My recent work ranges from fashion-focused React experiences and interactive JavaScript components to a full accountability platform and a more advanced personal portfolio.
 
-* 💻 Frontend Developer
-* 🎓 Computer Science Student
-* 🇳🇬 Based in Nigeria
-* 🚀 Building and experimenting with web applications
-* 🌱 Currently improving my React, TypeScript, and Next.js skills
-* 🗄️ Exploring backend development with Supabase and PostgreSQL
-* 🧠 Learning through real-world projects
-* ♟️ Chess enthusiast
+- 💻 Frontend Developer
+- 🎓 Computer Science Student
+- 🇳🇬 Based in Nigeria
+- ⚛️ React and Next.js focused
+- 🎨 Interested in UI, motion, and visual experiences
+- 🗄️ Exploring Supabase and PostgreSQL
+- 🤖 Experimenting with AI-powered web experiences
+- ♟️ Chess enthusiast
 
 ---
 
@@ -61,9 +65,12 @@ I'm currently focused on writing better JavaScript and TypeScript, building mode
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### Tools
+### Motion, 3D & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -75,67 +82,106 @@ I'm currently focused on writing better JavaScript and TypeScript, building mode
 
 ## 🚀 Featured Projects
 
-### 🔐 PassMate
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A password management application built with a focus on organizing and managing user credentials.
+### 🖤 LANVINS OFC
 
-Built with React and Supabase.
+A fashion-focused web experience built around alté fashion, avant-garde visuals, responsive design, and polished motion.
 
-<a href="https://github.com/King-Mikeyz/passmate">
-  View Repository →
+**Stack:** React • Vite • Tailwind CSS • Framer Motion
+
+<a href="https://lanvins-ofc-web.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 
----
+<a href="https://github.com/King-Mikeyz/LANVINS-OFC-WEB">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
 
-### 🤖 AI Learning Platform
+</td>
+<td width="50%" valign="top">
 
-An AI-powered learning platform designed to make studying more interactive and personalized.
+### ✅ Unleash Tribe Check-in
 
-Currently being developed and improved as I explore AI-powered applications.
+A web-based accountability platform designed to replace manual daily WhatsApp check-ins with a structured application for members and administrators.
 
----
+**Stack:** HTML • CSS • JavaScript • Supabase • PostgreSQL • Vercel
 
-### 💼 Developer Portfolio
+<a href="https://github.com/King-Mikeyz/the-unleash-tribe-checkin">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
 
-My personal portfolio website where I showcase my projects, skills, and experience as a developer.
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎞️ Image Carousel
+
+A responsive image carousel and slideshow built from scratch with automatic playback, previous/next navigation, hover pause on desktop, and mobile interaction behavior.
+
+**Stack:** HTML • CSS • JavaScript
+
+<a href="https://github.com/King-Mikeyz/image-carousel-group-3">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+
+My personal developer portfolio built to showcase my work, journey, skills, learning process, and experiments with interactive web technologies.
+
+**Stack:** Next.js • React • Tailwind CSS • GSAP • Three.js • Supabase • Gemini
 
 <a href="https://michael-ezenwugo-portfolio.vercel.app/">
-  View Live Website →
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 
 <a href="https://github.com/King-Mikeyz/michael-ezenwugo-portfolio">
-  View Repository →
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛍️ King Michael Collections
+## 🧠 What These Projects Show
 
-A digital products platform focused on software, developer resources, and useful code snippets.
-
-Currently in development.
+| Project | What it demonstrates |
+| --- | --- |
+| **LANVINS OFC** | React development, responsive UI, visual storytelling, motion, and component-based frontend work |
+| **Unleash Tribe Check-in** | Authentication, structured workflows, Supabase integration, PostgreSQL, member/admin systems, and product thinking |
+| **Image Carousel** | JavaScript logic, DOM manipulation, responsive behavior, autoplay, and interaction design |
+| **Developer Portfolio** | Next.js, advanced UI composition, animation, 3D experiences, AI integration, and modern frontend architecture |
 
 ---
 
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=JavaScript+%26+TypeScript;React+%26+Next.js;Backend+Development;Supabase+%26+PostgreSQL;Building+Production-Ready+Applications" alt="Currently Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=JavaScript+%26+TypeScript;React+%26+Next.js;Backend+Development;Supabase+%26+PostgreSQL;Animation+%26+3D+Web;AI-powered+applications" alt="Currently Learning" />
 </p>
 
-I'm focused on strengthening my fundamentals while building applications that solve real problems.
+I'm focused on strengthening my fundamentals while building more complete applications from frontend to backend.
 
 ---
 
 ## 🎯 What I'm Working Toward
 
-* Building better and more maintainable frontend applications
-* Becoming stronger with JavaScript and TypeScript
-* Improving my React and Next.js skills
-* Understanding backend architecture
-* Building and deploying production-ready applications
-* Contributing to open-source projects
-* Growing as a Computer Science student and developer
+- Writing cleaner and more maintainable code
+- Building stronger frontend architecture
+- Becoming highly confident with JavaScript and TypeScript
+- Building full-stack applications with real data
+- Creating more polished interactions and animations
+- Exploring AI and 3D on the web
+- Contributing to meaningful projects and open-source work
 
 ---
 
@@ -148,32 +194,7 @@ I'm focused on strengthening my fundamentals while building applications that so
 <br /><br />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King-Mikeyz&theme=tokyonight" width="48%" alt="GitHub Stats" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=King-Mikeyz&theme=tokyonight" width="48%" alt="Top Languages" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Mikeyz&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=King-Mikeyz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=King-Mikeyz&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
